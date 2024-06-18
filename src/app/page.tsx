@@ -72,7 +72,7 @@ export default function Home() {
                   </div>
                   <div className='ms-3'>
                     <p className='text-sm text-gray-700 dark:text-black'>
-                      Ticket Created Successfully!
+                      Token Created Successfully!
                     </p>
                   </div>
                 </div>
